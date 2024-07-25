@@ -53,7 +53,7 @@ function App() {
       fetchingImages(); // Refresh the images list after uploading
     } else {
       console.error("Upload failed");
-      toast.error("Error in uploading image");
+      toast.error("Image cannot be uploaded");
     }
   };
 
