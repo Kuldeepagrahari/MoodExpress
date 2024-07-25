@@ -19,6 +19,7 @@ body{
   /* background-image: linear-gradient(45deg, rgb(8, 154, 245),black, black, black); */
   width: 98.7vw;
   display: flex;
+  scrollbar-width: 1px;
   justify-content: center;
   flex-direction: column;
   background-image: linear-gradient(45deg, blue, rgb(133, 7, 244), rgb(227, 110, 48));
